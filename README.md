@@ -1,6 +1,6 @@
 # CSnap: News Filtering System
 
-![CSnap Logo]((https://github.com/nshah1503/C-SNAP/blob/main/News%20App%20Interface%20Visualization.webp))
+![CSnap Logo](https://github.com/nshah1503/C-SNAP/blob/main/News%20App%20Interface%20Visualization.webp)
 
 Welcome to CSnap, the cutting-edge news filtering system designed to bring clarity and insight into the overwhelming world of news. Leveraging advanced natural language processing (NLP) techniques, CSnap filters, analyzes, and categorizes news articles to deliver the most relevant and impactful stories to you.
 
